@@ -17,3 +17,15 @@ e. [Quick Start for Deployment](https://mlflow.org/docs/latest/getting-started/q
 a. [The Power Of MLFLOW And Dagshub-Open Source Data Science Project Collaboration](https://www.youtube.com/watch?v=qdcHHrsXA48)  
 b. [Build ML Production Grade Projects For Free | MLOps Course For Beginners](https://www.youtube.com/watch?v=dPmH3G9NQtY)  
 c. [01. Introduction To MLflow | Track Your Machine Learning Experiments | MLOps](https://www.youtube.com/watch?v=ksYIVDue8ak)  
+
+
+#### [Dagshub](https://dagshub.com/docs/integration_guide/mlflow_tracking/)
+After Getting Done with MLFlow Experimental Setup, you have to setup your Dagshub as well.  
+
+![Dagshub](./images/Dagshub.png)
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/qalmaqihir/mlflow_experiments.mlflow \
+MLFLOW_TRACKING_USERNAME=qalmaqihir \
+MLFLOW_TRACKING_PASSWORD=51e74e1136237825e6a160f90f31cabf7d542020 \
+python script.py

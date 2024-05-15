@@ -44,7 +44,7 @@ accuracy = accuracy_score(y_test, y_pred)
 #############################################################################
 
 # Set our tracking server uri for logging
-mlflow.set_tracking_uri(uri="http://127.0.0.1:8080")
+# mlflow.set_tracking_uri(uri="http://127.0.0.1:8080")
 
 # Create a new MLflow Experiment
 mlflow.set_experiment("MLflow Quickstart")
@@ -60,8 +60,14 @@ with mlflow.start_run():
     # Set a tag that we can use to remind ourselves what this run was for
     mlflow.set_tag("Training Info", "Basic LR model for iris data")
 
+    # ## For remote server only (Dagshub)
+    # remote_server_uri = "https://dagshub.com/qalmaqihir/mlflow_experiments.mlflow"
+    # mlflow.set_tracking_uri(remote_server_uri)
+
     # Infer the model signature
     signature = infer_signature(X_train, lr.predict(X_train))
+
+    
 
     # Log the model
     model_info = mlflow.sklearn.log_model(

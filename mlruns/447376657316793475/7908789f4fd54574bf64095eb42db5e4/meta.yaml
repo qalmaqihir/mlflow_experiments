@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/7908789f4fd54574bf64095eb42db5e4/artifacts
+end_time: 1715583825163
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 7908789f4fd54574bf64095eb42db5e4
+run_name: charming-toad-426
+run_uuid: 7908789f4fd54574bf64095eb42db5e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583820464
+status: 3
+tags: []
+user_id: dataviator

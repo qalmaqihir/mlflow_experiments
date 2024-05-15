@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/c3513ef5960b4340aaf10f43294b7d70/artifacts
+end_time: 1715583129063
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: c3513ef5960b4340aaf10f43294b7d70
+run_name: grandiose-bee-161
+run_uuid: c3513ef5960b4340aaf10f43294b7d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583087822
+status: 3
+tags: []
+user_id: dataviator

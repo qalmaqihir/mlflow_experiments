@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/229a5ae0664942c0abb12c5d4ab71577/artifacts
+end_time: 1715582972713
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 229a5ae0664942c0abb12c5d4ab71577
+run_name: auspicious-quail-180
+run_uuid: 229a5ae0664942c0abb12c5d4ab71577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715582968444
+status: 3
+tags: []
+user_id: dataviator

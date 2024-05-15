@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/769928049648918953/e9ce241ef42d481788a1b117d2d8b0cb/artifacts
+end_time: 1715581259498
+entry_point_name: ''
+experiment_id: '769928049648918953'
+lifecycle_stage: active
+run_id: e9ce241ef42d481788a1b117d2d8b0cb
+run_name: gaudy-kite-448
+run_uuid: e9ce241ef42d481788a1b117d2d8b0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715581256247
+status: 3
+tags: []
+user_id: dataviator

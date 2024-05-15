@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/8de654fc2602406fb6c803a4167b5537/artifacts
+end_time: 1715583093026
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 8de654fc2602406fb6c803a4167b5537
+run_name: shivering-eel-114
+run_uuid: 8de654fc2602406fb6c803a4167b5537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583087892
+status: 3
+tags: []
+user_id: dataviator

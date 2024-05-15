@@ -1,0 +1,5 @@
+aliases: {}
+creation_timestamp: 1715583626752
+description: First best model using hyperopt ANN on wine quality data
+last_updated_timestamp: 1715583775502
+name: wine-quality

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/b1270c0c6a01464b99032d2aa8dbb2ca/artifacts
+end_time: 1715582895911
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: b1270c0c6a01464b99032d2aa8dbb2ca
+run_name: fearless-donkey-444
+run_uuid: b1270c0c6a01464b99032d2aa8dbb2ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715582891842
+status: 3
+tags: []
+user_id: dataviator

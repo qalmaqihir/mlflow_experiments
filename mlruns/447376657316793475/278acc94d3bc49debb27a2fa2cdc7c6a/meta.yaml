@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/278acc94d3bc49debb27a2fa2cdc7c6a/artifacts
+end_time: 1715582883836
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 278acc94d3bc49debb27a2fa2cdc7c6a
+run_name: bright-wren-109
+run_uuid: 278acc94d3bc49debb27a2fa2cdc7c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715582879832
+status: 3
+tags: []
+user_id: dataviator

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/a71d9c7ae12841459bd88e102da3b0b2/artifacts
+end_time: 1715582960447
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: a71d9c7ae12841459bd88e102da3b0b2
+run_name: dashing-boar-377
+run_uuid: a71d9c7ae12841459bd88e102da3b0b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715582956560
+status: 3
+tags: []
+user_id: dataviator

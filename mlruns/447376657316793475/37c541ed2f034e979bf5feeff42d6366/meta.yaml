@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/37c541ed2f034e979bf5feeff42d6366/artifacts
+end_time: 1715583117141
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 37c541ed2f034e979bf5feeff42d6366
+run_name: fun-ray-910
+run_uuid: 37c541ed2f034e979bf5feeff42d6366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583112346
+status: 3
+tags: []
+user_id: dataviator

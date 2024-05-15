@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/750df630f14f436088bbe434e38adce4/artifacts
+end_time: 1715580585993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 750df630f14f436088bbe434e38adce4
+run_name: bouncy-cub-443
+run_uuid: 750df630f14f436088bbe434e38adce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715580585950
+status: 3
+tags: []
+user_id: dataviator

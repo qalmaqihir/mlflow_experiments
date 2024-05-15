@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715583626781
+current_stage: None
+description: ''
+last_updated_timestamp: 1715583626781
+name: wine-quality
+run_id: 1a851c85a7184af8afda60116aa03c7c
+run_link: ''
+source: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/1a851c85a7184af8afda60116aa03c7c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/1a851c85a7184af8afda60116aa03c7c/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/769928049648918953/1256d0a52f8c451496646dd69733204a/artifacts
+end_time: 1715581017381
+entry_point_name: ''
+experiment_id: '769928049648918953'
+lifecycle_stage: active
+run_id: 1256d0a52f8c451496646dd69733204a
+run_name: blushing-owl-563
+run_uuid: 1256d0a52f8c451496646dd69733204a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715581017369
+status: 4
+tags: []
+user_id: dataviator

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/09eb53af744b4d5abe8f1bb2ffc8a72d/artifacts
+end_time: 1715583840777
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 09eb53af744b4d5abe8f1bb2ffc8a72d
+run_name: fearless-shrike-975
+run_uuid: 09eb53af744b4d5abe8f1bb2ffc8a72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583835674
+status: 3
+tags: []
+user_id: dataviator

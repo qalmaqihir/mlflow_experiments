@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853512966062483930/387299cd95a84de99f177de9d2a65872/artifacts
+end_time: 1715577647619
+entry_point_name: ''
+experiment_id: '853512966062483930'
+lifecycle_stage: active
+run_id: 387299cd95a84de99f177de9d2a65872
+run_name: abrasive-bat-442
+run_uuid: 387299cd95a84de99f177de9d2a65872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715577645494
+status: 3
+tags: []
+user_id: dataviator

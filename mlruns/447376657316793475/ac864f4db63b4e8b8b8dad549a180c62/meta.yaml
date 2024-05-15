@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/ac864f4db63b4e8b8b8dad549a180c62/artifacts
+end_time: 1715583107385
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: ac864f4db63b4e8b8b8dad549a180c62
+run_name: melodic-roo-957
+run_uuid: ac864f4db63b4e8b8b8dad549a180c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583102712
+status: 3
+tags: []
+user_id: dataviator

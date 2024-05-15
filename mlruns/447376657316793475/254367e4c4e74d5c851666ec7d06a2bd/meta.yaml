@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/254367e4c4e74d5c851666ec7d06a2bd/artifacts
+end_time: 1715583835640
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 254367e4c4e74d5c851666ec7d06a2bd
+run_name: rebellious-flea-93
+run_uuid: 254367e4c4e74d5c851666ec7d06a2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583829918
+status: 3
+tags: []
+user_id: dataviator

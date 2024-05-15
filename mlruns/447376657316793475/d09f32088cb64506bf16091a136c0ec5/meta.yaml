@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/d09f32088cb64506bf16091a136c0ec5/artifacts
+end_time: 1715583112316
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: d09f32088cb64506bf16091a136c0ec5
+run_name: welcoming-bear-921
+run_uuid: d09f32088cb64506bf16091a136c0ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715583107410
+status: 3
+tags: []
+user_id: dataviator

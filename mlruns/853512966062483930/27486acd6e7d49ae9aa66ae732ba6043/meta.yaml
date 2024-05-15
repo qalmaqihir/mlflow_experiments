@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/853512966062483930/27486acd6e7d49ae9aa66ae732ba6043/artifacts
+end_time: 1715577561624
+entry_point_name: ''
+experiment_id: '853512966062483930'
+lifecycle_stage: active
+run_id: 27486acd6e7d49ae9aa66ae732ba6043
+run_name: angry-hen-991
+run_uuid: 27486acd6e7d49ae9aa66ae732ba6043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715577559755
+status: 3
+tags: []
+user_id: dataviator

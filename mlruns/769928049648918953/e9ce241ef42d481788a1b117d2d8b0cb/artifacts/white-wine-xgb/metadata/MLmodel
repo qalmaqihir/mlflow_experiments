@@ -1,0 +1,24 @@
+artifact_path: white-wine-xgb
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.3
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.0.3
+mlflow_version: 2.12.2
+model_size_bytes: 1289944
+model_uuid: 866a8a25b4194c79b0b6b75bb34d95fb
+run_id: e9ce241ef42d481788a1b117d2d8b0cb
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+utc_time_created: '2024-05-13 06:20:56.276453'

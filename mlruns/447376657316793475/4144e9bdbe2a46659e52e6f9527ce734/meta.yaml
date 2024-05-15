@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dataviator/Learnings/MLFlow/mlruns/447376657316793475/4144e9bdbe2a46659e52e6f9527ce734/artifacts
+end_time: 1715582956531
+entry_point_name: ''
+experiment_id: '447376657316793475'
+lifecycle_stage: active
+run_id: 4144e9bdbe2a46659e52e6f9527ce734
+run_name: learned-skink-986
+run_uuid: 4144e9bdbe2a46659e52e6f9527ce734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715582952641
+status: 3
+tags: []
+user_id: dataviator

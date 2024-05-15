@@ -24,8 +24,3 @@ After Getting Done with MLFlow Experimental Setup, you have to setup your Dagshu
 
 ![Dagshub](./images/Dagshub.png)
 
-
-MLFLOW_TRACKING_URI=https://dagshub.com/qalmaqihir/mlflow_experiments.mlflow \
-MLFLOW_TRACKING_USERNAME=qalmaqihir \
-MLFLOW_TRACKING_PASSWORD=51e74e1136237825e6a160f90f31cabf7d542020 \
-python script.py

@@ -1,6 +1,8 @@
 # [MLflow](https://mlflow.org/#core-concepts) Experiments
 ## Introductory Experiments with the MLFlow Platform
 
+![GIF Image](./images/animation.gif)  
+
 ### Some resources I would definitly prefer to go through
 a. [MLFlow Docs](https://mlflow.org/docs/latest/index.html)  
 b. [MLFlow Quick Start](https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html)  
